@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nobody</h1>
 <h3 align="center">I'm from Vietnamese</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
-
 - 👨‍💻 All of my projects are available at me by me in the github
 
 - ⚡ Fun fact **I am funny😅**
